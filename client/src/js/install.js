@@ -11,7 +11,7 @@ butInstall.removeAttribute('hidden');
 });
 // TODO: Implement a click event handler on the `butInstall` element
 butInstall.addEventListener('click', async () => {
-    console.log('Accepting the install prompt');
+    console.log('Accepted Click To Install');
     deferredPrompt.prompt();
   
     deferredPrompt = null;
