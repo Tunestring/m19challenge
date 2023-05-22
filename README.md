@@ -45,6 +45,8 @@ No tests written for this project.
 
 ## Questions
 
+Link to deployed Heroku application: https://anothertexteditor19.herokuapp.com/
+
 Any further questions e-mail me: nate.k.long@gmail.com
 
 Check out my other projects: https://www.github.com/Tunestring
